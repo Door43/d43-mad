@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mad:home|Door43 (mad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mad|d43-mad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mad/archive/master.zip|d43-mad.zip]]
+
+**Recent Changes**
+{{changes>ns = mad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mad|Ethnologue data]]
+
